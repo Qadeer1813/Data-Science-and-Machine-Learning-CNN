@@ -19,7 +19,7 @@ After downloading this dataset
 After processing the data 
 
 # Algorithims:
-Convolutional Neural Netwworks: 
+Convolutional Neural Networks: CNN is a deep learning models designed for image data. They use layers of filters to automatically detect patterns like edges and shapes. In this project, CNN were used to classify facial expressions based images
 
 # Online Sources:
 1. Trekhleb (2025) Trekhleb/machine-learning-experiments: 🤖 interactive machine learning experiments: 🏋️models training + 🎨models demo, GitHub. Available at: https://github.com/trekhleb/machine-learning-experiments (Accessed: March 2025). 
