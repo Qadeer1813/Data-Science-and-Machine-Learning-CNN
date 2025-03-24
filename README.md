@@ -4,6 +4,8 @@
 
 **Student ID: C00270632**
 
+**Lecture: Greg Doyle**
+
 **Lecture: Convolutional Neural Networks (CNN)**
 
 # Project Description
