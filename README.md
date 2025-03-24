@@ -18,7 +18,19 @@ The dataset that was used for this project can be downloaded from https://www.ka
 After downloading this dataset
 
 # Data Understanding and Visualisation 
-After processing the data 
+After the data was processed these were the following results:
+
+1. Training & Validation loss
+
+   ![image](https://github.com/user-attachments/assets/72957e8f-d10d-4f64-afd4-96d1b75f6674)
+
+2. Training & Validation Accuracy
+
+   ![image](https://github.com/user-attachments/assets/5f25f1ae-e75f-44c5-855c-9f95084e81a6)
+
+3. Model in use
+
+   ![image](https://github.com/user-attachments/assets/549d6a49-8cd5-4a2d-b018-5205aba0c168)
 
 # Algorithims:
 Convolutional Neural Networks: CNN is a deep learning models designed for image data. They use layers of filters to automatically detect patterns like edges and shapes. In this project, CNN were used to classify facial expressions based images
